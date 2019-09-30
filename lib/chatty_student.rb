@@ -7,16 +7,7 @@ def hello
 end
 
 def raise_hand
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
+  super.10x
 end
 
 end
